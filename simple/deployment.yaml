@@ -14,7 +14,7 @@ spec:
         app: simple
     spec:
       containers:
-      - image: argoproj/rollouts-demo:blue
+      - image: argoproj/rollouts-demo:green
         name: simple
         ports:
         - containerPort: 8080
