@@ -8,5 +8,5 @@ resources:
 - service.yaml
 
 images:
-  - name: argoproj/rollouts-demo
-    newTag: red
+  - name: eu.gcr.io/nordnet-images/dsltest-cloud-service-argo
+    newTag: v1535
