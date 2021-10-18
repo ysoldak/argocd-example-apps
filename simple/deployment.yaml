@@ -14,7 +14,7 @@ spec:
         app: simple
     spec:
       containers:
-      - image: argoproj/rollouts-demo
+      - image: eu.gcr.io/nordnet-images/dsltest-cloud-service-argo
         name: simple
         ports:
         - containerPort: 8080
