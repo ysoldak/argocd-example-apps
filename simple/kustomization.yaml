@@ -9,4 +9,4 @@ resources:
 
 images:
   - name: eu.gcr.io/nordnet-images/dsltest-cloud-service-argo
-    newTag: v1543
+    newTag: v1544
